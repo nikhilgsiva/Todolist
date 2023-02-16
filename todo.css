@@ -1,0 +1,62 @@
+#table-body{
+    height: 10000px;
+}
+
+.containerr{
+    background-color:rgba(22, 203, 239, 0.5);
+   
+}
+
+.todo{
+    margin-left: 5%;
+}
+
+body{
+    background-image: linear-gradient(rgba(69, 219, 246, 0.2),rgba(62, 213, 239, 0.52)) ;
+}
+
+.nav-link:hover{
+    transform: scale(1.2);
+    transition: 1000ms;
+}
+
+*{
+    margin:0;
+    padding: 0;
+}
+
+
+footer {
+    text-align: center;
+    padding-bottom: 7px;
+    color: black;
+    background-color: white;
+}
+
+
+
+.topNav  {
+    float: right;
+            }
+.topNav .dropdown-menu{left:auto;right:0px;}
+
+
+.allignment {
+    padding:  20px
+    ;
+}
+
+.container1 {
+    table-layout: auto;
+    margin: 50px;
+    padding-left: 37%;
+    padding-top: 3%;
+}
+
+.container2 {
+    table-layout: center;
+    margin: 50px;
+    padding-left: 30%;
+    padding-top: .9%;
+}
+
