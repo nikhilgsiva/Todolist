@@ -3,7 +3,6 @@
     padding: 0;
 }
 
-
 footer {
     text-align: center;
     padding-bottom: 7px;
@@ -11,13 +10,10 @@ footer {
     background-color: white;
 }
 
-
-
 .topNav  {
     float: right;
             }
 .topNav .dropdown-menu{left:auto;right:0px;}
-
 
 .allignment {
     padding:  20px
@@ -37,6 +33,7 @@ footer {
     padding-left: 30%;
     padding-top: .9%;
 }
+
 
 
 *,
